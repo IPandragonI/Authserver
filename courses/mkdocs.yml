@@ -87,6 +87,7 @@ nav:
         - Application Administrative: sequences/s4/admin/index.md
         - Application Client: sequences/s4/client/index.md
         - Examen final: sequences/s4/examen_final/index.md
+        - Conclusion: sequences/s4/conclusion/index.md
 
 extra:
   generator: false
