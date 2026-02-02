@@ -39,3 +39,5 @@ le sujet du cours, le déroulé général et les objectifs pédagogiques
 [Application Client](sequences/s4/client/index.md) : Création d’un client web React consommant le SSO
 
 [Examen final](sequences/s4/examen_final/index.md) : Évaluation finale des compétences acquises durant le cours
+
+[Conclusion](sequences/s4/conclusion/index.md) : Vue d'ensemble sur le projet et le principe d'authentification centralisée
